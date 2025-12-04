@@ -63,7 +63,7 @@ Includes charts, cards, and clean UI.
 An educational learning website that provides study materials, topics, tutorials, and structured learning flows.  
 Built with clean UI and responsive design.  
 **Tech Used:** HTML, CSS/Tailwind, JavaScript / React  
-🔗 Code: *(add your repo link here)*
+🔗 Code: *(https://github.com/sachin008p/frontend)*
 
 
 ---
