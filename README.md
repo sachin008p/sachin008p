@@ -47,7 +47,7 @@ Currently improving my skills in **JavaScript, React, and Java** while building 
 A professional legal service website providing information about business law, corporate law, family law, and more.  
 Includes structured sections, animations, and modern UI.  
 **Tech Used:** React, CSS, Framer Motion  
-🔗 Code: *(add your repo link here)*
+🔗 Code: *(https://github.com/TheReacher4013/legalWeb)*
 
 ---
 
