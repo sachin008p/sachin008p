@@ -74,7 +74,7 @@ Built with clean UI and responsive design.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin008p&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://www.bing.com/images/search?q=Web+Developer+GitHub+Readme&FORM=IRIBIP" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin008p&layout=compact&theme=tokyonight" height="160" />
 </p>
 
