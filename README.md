@@ -55,7 +55,7 @@ Includes structured sections, animations, and modern UI.
 A responsive dashboard where students can view courses, progress, notifications, and performance stats.  
 Includes charts, cards, and clean UI.  
 **Tech Used:** HTML, CSS, JavaScript   
-🔗 Code: *(add your repo link here)*
+🔗 Code: *(https://github.com/sachin008p/Student-Dashboard)*
 
 ---
 
