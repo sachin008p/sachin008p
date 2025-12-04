@@ -74,7 +74,7 @@ Built with clean UI and responsive design.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://codemithra.com/wp-content/uploads/2024/07/What-is-a-Full-Stack-Developer-jpg.webp" height="160" , width="100"/>
+  <img src="https://codemithra.com/wp-content/uploads/2024/07/What-is-a-Full-Stack-Developer-jpg.webp" height="160" , width="1000"/>
  
 </p>
 
