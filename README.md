@@ -41,32 +41,30 @@ Currently improving my skills in **JavaScript, React, and Java** while building 
 
 # 📂 Featured Projects
 
-### ⭐ **1. Portfolio Website**  
-A modern and responsive portfolio built using React & Tailwind CSS.  
-**Tech:** React, Tailwind, Framer Motion  
-🔗 Demo: *add your link*  
-🔗 Code: *add repo link*
+## 📂 Featured Projects
+
+### ⚖️ 1. Legal Web Platform  
+A professional legal service website providing information about business law, corporate law, family law, and more.  
+Includes structured sections, animations, and modern UI.  
+**Tech Used:** React, CSS, Framer Motion  
+🔗 Code: *(add your repo link here)*
 
 ---
 
-### ⭐ **2. Todo App (React Version)**  
-A clean React-based Todo App with local storage support.  
-**Tech:** React, CSS, Hooks  
-🔗 Code: *add repo link*
+### 🎓 2. Student Dashboard  
+A responsive dashboard where students can view courses, progress, notifications, and performance stats.  
+Includes charts, cards, and clean UI.  
+**Tech Used:** HTML, CSS, JavaScript   
+🔗 Code: *(add your repo link here)*
 
 ---
 
-### ⭐ **3. JavaScript Mini Projects**  
-A collection of small JS apps: Calculator, Weather App, Counter, Stopwatch.  
-**Tech:** JS, HTML, CSS  
-🔗 Code: *add repo link*
+### 📘 3. Learning Web (Educational Platform)  
+An educational learning website that provides study materials, topics, tutorials, and structured learning flows.  
+Built with clean UI and responsive design.  
+**Tech Used:** HTML, CSS/Tailwind, JavaScript / React  
+🔗 Code: *(add your repo link here)*
 
----
-
-### ⭐ **4. REST API Backend (Node + Express)**  
-A simple REST API with CRUD operations.  
-**Tech:** Node.js, Express, Postman  
-🔗 Code: *add repo link*
 
 ---
 .
