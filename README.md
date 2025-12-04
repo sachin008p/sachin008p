@@ -3,14 +3,14 @@
 <h1 align="center">👋 Hi, I'm Sachin Kadam</h1>
 
 <p align="center">
-  Passionate Web Developer | JavaScript Enthusiast | React Developer  
+  Passionate Web Developer | JavaScript Enthusiast | React Developer | Frontend Developer
 </p>
 
 ---
 
 ## 🚀 About Me
 I love creating responsive, user-friendly web applications.  
-Currently improving my skills in **JavaScript, React, Node.js, and Java** while building real-world projects.
+Currently improving my skills in **JavaScript, React, and Java** while building real-world projects.
 
 ---
 
@@ -18,7 +18,8 @@ Currently improving my skills in **JavaScript, React, Node.js, and Java** while 
 
 ### 🔹 Programming Languages  
 - Java  
-- JavaScript (ES6+)  
+- JavaScript (ES6+)
+- Python 
 
 ### 🔹 Frontend  
 - React.js  
@@ -28,8 +29,8 @@ Currently improving my skills in **JavaScript, React, Node.js, and Java** while 
 - Responsive UI / Flexbox / Grid  
 
 ### 🔹 Backend  
-- Node.js  
-- Express.js  
+- Java
+    
 
 ### 🔹 Tools & Platforms  
 - Git & GitHub  
@@ -68,8 +69,7 @@ A simple REST API with CRUD operations.
 🔗 Code: *add repo link*
 
 ---
-
-If you want, I can add **project images, badges, tech icons, or shields** to make this section more beautiful.
+.
 
 ---
 
@@ -84,8 +84,8 @@ If you want, I can add **project images, badges, tech icons, or shields** to mak
 
 # 🔗 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link  
+- 📧 Email: sachinkadam83916@gmail.com  
+- 💼 LinkedIn: https://github.com/sachin008p
 - 🌐 Portfolio: your-portfolio-link  
 
 ---
