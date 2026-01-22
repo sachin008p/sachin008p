@@ -84,7 +84,7 @@ Built with clean UI and responsive design.
 
 - 📧 Email: sachinkadam83916@gmail.com  
 - 💼 LinkedIn: https://github.com/sachin008p
-- 🌐 Portfolio: your-portfolio-link  
+   
 
 ---
 
