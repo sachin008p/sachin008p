@@ -1,17 +1,23 @@
-# <div align="center">🔥 Sachin Kadam</div>
+# <div align="center"> Sachin Kadam</div>
 
 <div align="center">
 
-### Java Full Stack Developer • Backend Enthusiast • Cloud Learner
+### Java Full Stack Developer • Backend Developer • Cloud Learner
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Building+Scalable+Backend+Systems;Creating+Modern+Responsive+Web+Apps;Spring+Boot+%7C+React.js+%7C+AWS+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=950&lines=Java+Full+Stack+Developer;Building+Scalable+Backend+Systems;Creating+Modern+Responsive+Applications;Spring+Boot+%7C+React.js+%7C+MySQL;Learning+AWS+%7C+Docker+%7C+Kubernetes" />
 
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sachin008p&label=Profile%20Views&color=f97316&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/sachin008p?label=Followers&style=for-the-badge&color=f97316&logo=github" />
-  <img src="https://img.shields.io/github/stars/sachin008p?label=Stars&style=for-the-badge&color=f97316&logo=github" />
+
+<img src="https://komarev.com/ghpvc/?username=sachin008p&label=Profile%20Views&color=f97316&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/sachin008p?label=Followers&style=for-the-badge&color=f97316&logo=github" />
+
+<img src="https://img.shields.io/github/stars/sachin008p?label=Stars&style=for-the-badge&color=f97316&logo=github" />
+
+<img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Jobs-f97316?style=for-the-badge"/>
+
 </p>
 
 <br/>
@@ -26,19 +32,29 @@
 
 # 🧑‍💻 About Me
 
-Hi, I'm **Sachin Kadam**, a passionate **Java Full Stack Developer** from **Pune, Maharashtra, India** with hands-on experience building responsive and scalable web applications.
+Hi, I'm **Sachin Kadam**, a passionate **Java Full Stack Developer** from **Pune, Maharashtra, India** with hands-on experience in building responsive and scalable web applications.
 
-I specialize in developing full stack applications using **Java, Spring Boot, React.js, MySQL, REST APIs, and Tailwind CSS** with a strong focus on backend development, clean architecture, and responsive UI design.
+I specialize in creating modern applications using:
 
-Currently expanding expertise in:
+* Java
+* Spring Boot
+* React.js
+* REST APIs
+* MySQL & PostgreSQL
+* Tailwind CSS
+
+I enjoy solving real-world problems through code and continuously improving my skills in backend architecture, cloud technologies, and scalable application development.
+
+Currently focused on:
 
 * 🚀 Microservices Architecture
-* ☁️ AWS Cloud Deployment
+* ☁️ AWS Cloud
 * 🐳 Docker & Kubernetes
-* 🔐 Secure Authentication Systems
-* 🧠 System Design & Scalable Applications
+* 🔐 Authentication Systems
+* 🧠 System Design
+* ⚡ Full Stack Development
 
-I enjoy solving real-world problems through code and continuously improving my development skills by building modern applications with clean and maintainable architecture.
+My goal is to become a highly skilled **Full Stack + Cloud Engineer** capable of building production-ready applications with clean architecture and excellent user experience.
 
 ---
 
@@ -48,16 +64,15 @@ I enjoy solving real-world problems through code and continuously improving my d
 public class SachinKadam {
 
     String role = "Java Full Stack Developer";
-    String location = "Pune, Maharashtra, India";
 
-    String[] backend = {
+    String[] backendSkills = {
         "Java",
         "Spring Boot",
         "Hibernate",
         "REST APIs"
     };
 
-    String[] frontend = {
+    String[] frontendSkills = {
         "React.js",
         "JavaScript",
         "Tailwind CSS",
@@ -65,23 +80,29 @@ public class SachinKadam {
         "CSS3"
     };
 
-    String[] databases = {
+    String[] databaseSkills = {
         "MySQL",
-        "PostgreSQL"
+        "PostgreSQL",
+        "pgAdmin"
     };
 
-    String[] devOps = {
+    String[] cloudAndDevOps = {
         "Docker",
         "Kubernetes",
         "AWS"
     };
 
+    String[] deploymentTools = {
+        "Netlify",
+        "Vercel"
+    };
+
     String currentGoal =
         "Become a strong Full Stack + Cloud Engineer";
 
-    public void buildApplications() {
+    public void build() {
         System.out.println(
-            "Building scalable and user-friendly applications 🚀"
+            "Building scalable modern applications 🚀"
         );
     }
 }
@@ -96,46 +117,78 @@ public class SachinKadam {
 ## 🔥 Backend Development
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-ff6b35?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/REST_APIs-ff6b35?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 
 ---
 
 ## 🎨 Frontend Development
 
 <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8"/>
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Database & API Tools
 
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 ---
 
 ## ☁️ DevOps & Cloud
 
 <img src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
+
+<img src="https://img.shields.io/badge/GitHub_Actions-181717?style=for-the-badge&logo=githubactions&logoColor=white"/>
 
 ---
 
-## 🛠️ Tools & IDEs
+## 🚀 Deployment Platforms
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+
+---
+
+## 🛠️ Developer Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7"/>
+
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 
 </div>
 
@@ -145,12 +198,12 @@ public class SachinKadam {
 
 <div align="center">
 
-| 🚀 Project                        | 📖 Description                                                                                                                                         | ⚡ Tech Stack                                  |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
-| ⚖️ **Legal Web Platform**         | Developed a secure legal case management platform for clients, lawyers, and administrators with modern responsive UI and workflow management features. | `React.js` `Tailwind CSS` `JavaScript`        |
-| 🏥 **Hospital Management System** | Built a scalable hospital management application to manage doctors, patients, appointments, and secure database operations efficiently.                | `Java` `Spring Boot` `PostgreSQL` `Bootstrap` |
-| 📚 **Learning Web Platform**      | Designed a modern learning website with reusable React components and responsive user experience for interactive online learning.                      | `React.js` `JavaScript` `Tailwind CSS`        |
-| ✈️ **Airline Reservation System** | Created a dynamic airline reservation system with booking, cancellation, authentication, and flight management functionality.                          | `PHP` `MySQL` `HTML5` `CSS3`                  |
+| 🚀 Project                        | 📖 Description                                                                                                                                           | ⚡ Tech Stack                           |
+| --------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| ⚖️ **Legal Web Platform**         | Developed a secure legal case management platform for clients, lawyers, and administrators with responsive dashboard interfaces and workflow management. | `React.js` `Tailwind CSS` `JavaScript` |
+| 🏥 **Hospital Management System** | Built a scalable hospital management application for managing appointments, doctors, specialists, and patient records securely.                          | `Java` `Spring Boot` `PostgreSQL`      |
+| 📚 **Learning Web Platform**      | Designed a modern responsive learning website with reusable React components and engaging user experience.                                               | `React.js` `Tailwind CSS` `JavaScript` |
+| ✈️ **Airline Reservation System** | Developed a dynamic airline reservation platform with booking, cancellation, authentication, and seat management functionality.                          | `PHP` `MySQL` `HTML` `CSS`             |
 
 </div>
 
@@ -184,21 +237,23 @@ Backend:
   - REST APIs
   - Hibernate
   - JWT Authentication
+  - Microservices
 
 Frontend:
   - React.js
   - Tailwind CSS
   - Responsive UI Design
 
-DevOps & Cloud:
+Cloud & DevOps:
   - Docker
   - Kubernetes
   - AWS Cloud
+  - CI/CD Pipelines
 
 Computer Science:
   - DSA with Java
   - System Design
-  - CI/CD Pipelines
+  - Problem Solving
 ```
 
 ---
@@ -209,28 +264,45 @@ Computer Science:
 * ✅ Developed RESTful backend APIs
 * ✅ Strong understanding of Java OOP concepts
 * ✅ Hands-on frontend & backend integration experience
-* ✅ Created responsive and modern UI/UX applications
-* ✅ Active GitHub contributor
+* ✅ Experience with MySQL & PostgreSQL databases
+* ✅ Worked with deployment tools like Vercel & Netlify
 * ✅ Winner — College Third-Year Project Competition (2024)
+* ✅ Active GitHub contributor
 * ✅ Continuously learning cloud and DevOps technologies
 
 ---
 
-# 🌟 Professional Summary
+# 💼 Professional Summary
 
-Passionate **Java Full Stack Developer** with experience building responsive web applications using **React.js, Spring Boot, REST APIs, and MySQL**.
+Passionate **Java Full Stack Developer** with experience building scalable and responsive web applications using **Java, Spring Boot, React.js, REST APIs, MySQL, and PostgreSQL**.
 
-Focused on creating scalable, clean, and user-friendly applications with modern UI/UX practices.
+Experienced in frontend-backend integration, API development, database management, and responsive UI design through internship and project experience.
 
-Currently expanding expertise in:
+Currently strengthening expertise in:
 
-* Microservices Architecture
-* Docker & Kubernetes
-* Cloud Deployment (AWS)
-* System Design
-* Secure Authentication Systems
+* ☁️ AWS Cloud
+* 🐳 Docker & Kubernetes
+* 🔐 Authentication Systems
+* 🚀 Microservices Architecture
+* 🧠 System Design
 
-I enjoy solving real-world problems through code and continuously improving my development skills.
+Focused on writing clean, maintainable, and production-ready code.
+
+---
+
+# 🟢 Current Status
+
+<div align="center">
+
+### 🚀 Open To Opportunities
+
+✅ Java Full Stack Developer Roles
+✅ Backend Developer Roles
+✅ Software Engineering Internships
+✅ Freelance Projects
+✅ Open Source Collaboration
+
+</div>
 
 ---
 
@@ -258,18 +330,6 @@ I enjoy solving real-world problems through code and continuously improving my d
 
 ---
 
-# 🟢 Current Status
-
-```txt
-Available For:
-✔ Full Stack Developer Internships
-✔ Java Backend Roles
-✔ Freelance Projects
-✔ Open Source Collaboration
-```
-
----
-
 # 🐍 Contribution Snake
 
 <div align="center">
@@ -294,5 +354,7 @@ I build solutions that users actually enjoy using.
 ### 💡 “First, solve the problem. Then, write the code.”
 
 ⭐ Thanks for visiting my profile!
+
+🔥 From Sachin Kadam
 
 </div>
